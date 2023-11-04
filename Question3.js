@@ -11,7 +11,7 @@ function spaceSegmentation(s, wordArray) {
     return true;
 }
 
-// Example usage
+// testcases
 const s = "leetcode";
 const wordArray = ["leet", "code" ];
 console.log(spaceSegmentation(s, wordArray));
